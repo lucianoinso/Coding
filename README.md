@@ -6,16 +6,14 @@
 
 #### Includes program of types: ####
 - recursion
-- datastructure
+- datastructures
 - sorting
 - basic patterns
 
 
-
-
-
 #### Included codes of: ####
-* suduko  ``` ./recursion/suduko.cpp``` 
+* sudoku  ``` ./recursion/sudoku/sudoku.cpp```
 * patterns  ```. basic_patterns/patt1\2\3.c  with their screen shots```
 * DS codes ``` Includes queue,stack,postfix,expression tree. ```
 * quick, merge, topo, etc. ```sorting programs```
+
